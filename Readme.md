@@ -60,11 +60,11 @@ py [name].py
 ```
 
 ### Result
-1. C++
+1. C++<br/>
 ![CPPResult](https://github.com/azarnuzy/LATIHAN2DPBO2022/blob/master/ScreenShot/CPPResult.jpg)
-2. Java 
+2. Java<br/>
 ![javaResult](https://github.com/azarnuzy/LATIHAN2DPBO2022/blob/master/ScreenShot/javaResult.jpg)
-3. PHP
+3. PHP<br/>
 ![PHPResult](https://github.com/azarnuzy/LATIHAN2DPBO2022/blob/master/ScreenShot/PHPResult.jpg)
-4. Python
+4. Python<br/>
 ![pythonResult](https://github.com/azarnuzy/LATIHAN2DPBO2022/blob/master/ScreenShot/pythonResult.jpg)
