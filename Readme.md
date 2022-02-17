@@ -21,7 +21,7 @@ Terdapat tiga kelas pada project kali ini yaitu kelas Product, Hardware, dan Mem
   - memorySize
   - supportsCuda
 
-Materi latihan dari kode di repositori ini dapat di temukan di file  [Modul 1 - Implementasi Kelas dan Enkapsulasi](https://github.com/azarnuzy/LATIHAN1DPBO2022.git)
+Materi latihan dari kode di repositori ini dapat di temukan di file  [Modul 2 - Single and Multilevels Inheritance (Java)](https://github.com/azarnuzy/LATIHAN2DPBO2022.git)
 
 ### Tools
 - [XAMPP](https://www.apachefriends.org/download.html) : PHP 
