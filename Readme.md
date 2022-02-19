@@ -20,7 +20,7 @@ Terdapat tiga kelas pada project kali ini yaitu kelas Product, Hardware, dan Mem
   - frequency
   - memorySize
   - supportsCuda
-
+![DiagramClass2](https://github.com/azarnuzy/LATIHAN2DPBO2022/blob/master/DiagramClass2.jpg)
 Materi latihan dari kode di repositori ini dapat di temukan di file  [Modul 2 - Single and Multilevels Inheritance (Java)](https://github.com/azarnuzy/LATIHAN2DPBO2022.git)
 
 ### Tools
